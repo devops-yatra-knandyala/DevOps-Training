@@ -2,6 +2,8 @@
 #test line - 2
 # DevOps-WebApp project integrated with CI model 
 # Added more lines of code
+
+# Added to automate the build process
 -------------------------------
 DevOps-WebApp for maven web app projects
 
